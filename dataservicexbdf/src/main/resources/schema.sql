@@ -1,0 +1,1 @@
+CREATE TABLE student (id BIGINT, name varchar(20), code varchar(20), dob date);
